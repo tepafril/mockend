@@ -1,0 +1,14 @@
+{
+  "menuItems": [
+    {
+      "name": "McDonald",
+      "icon": "/img/mcdonald.png",
+      "to": "order/menu"
+    },
+    {
+      "name": "Youding",
+      "icon": "/img/youding.png",
+      "to": "order/menu"
+    }
+  ]
+}
