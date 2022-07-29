@@ -1,13 +1,15 @@
 {
   "menuItems": [
     {
+      "id": "1",
       "name": "McDonald",
-      "icon": "/img/mcdonald.png",
+      "thumbnail": "/img/mcdonald.png",
       "to": "order/menu"
     },
     {
+      "id": "2",
       "name": "Youding",
-      "icon": "/img/youding.png",
+      "thumbnail": "/img/youding.png",
       "to": "order/menu"
     }
   ]
