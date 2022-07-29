@@ -1,15 +1,15 @@
 {
-  "menuItems": [
+  "data": [
     {
       "id": "1",
       "name": "McDonald",
-      "thumbnail": "/img/mcdonald.png",
+      "thumbnail": "https://raw.githubusercontent.com/tepafril/mockend/main/img/mcdonald.png",
       "to": "order/menu"
     },
     {
       "id": "2",
       "name": "Youding",
-      "thumbnail": "/img/youding.png",
+      "thumbnail": "https://raw.githubusercontent.com/tepafril/mockend/main/img/youding.png",
       "to": "order/menu"
     }
   ]
